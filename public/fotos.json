@@ -1,0 +1,82 @@
+[
+  {
+    "desc": "",
+    "id": "P001",
+    "photo": "../src/assets/img/PokeCake.png",
+    "ingredients": [""],
+    "name": "PokeCake",
+    "price": 12000
+  },
+  {
+    "desc": "",
+    "id": "P002",
+    "photo": "https://static.wixstatic.com/media/28a8cd_f8a75874869847278b543d3648c03483~mv2.jpeg/v1/fill/w_290,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-12-07%20at%2019_57_37.jpeg",
+    "ingredients": ["Vainilla", "Relleno manjar", "Choco-Oreo", "Choco Mocca", "Red Velvet", "Limón", "Chocolate"],
+    "name": "Cupcakes",
+    "price": 3800
+  },
+  {
+    "desc": "Con el motivo de tu preferencia, figuras personalizadas de fondant",
+    "id": "P003",
+    "photo": "https://static.wixstatic.com/media/28a8cd_087dd1ff6697435587e3b094f67616b6~mv2.jpg/v1/fill/w_429,h_266,al_c,q_80,usm_0.66_1.00_0.01/28a8cd_087dd1ff6697435587e3b094f67616b6~mv2.jpg",
+    "ingredients": [""],
+    "name": "Figuras de fondat",
+    "price": 12000
+  },
+  {
+    "desc": "Una refrescante elección para los días calurosos",
+    "id": "P004",
+    "photo": "https://static.wixstatic.com/media/28a8cd_9fbfd753576c4bbab4359b575f318d48~mv2.jpeg/v1/fill/w_290,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-12-11%20at%2013_35_40%20(1).jpeg",
+    "ingredients": [""],
+    "name": "Torta de yogurt",
+    "price": 3500
+  },
+  {
+    "desc": "Uno de los pasteles más conocidos de la repostería francesa",
+    "id": "P005",
+    "photo": "https://static.wixstatic.com/media/28a8cd_cb6c4e504ce24a01a7aed8860d690118~mv2.jpeg/v1/fill/w_290,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-12-11%20at%2019_58_08.jpeg",
+    "ingredients": ["Bizcocho relleno", "Crema de chocolate", "Crema de café", "Cubierta en almibar de café"],
+    "name": "Torta ópera",
+    "price": 3500
+  },
+  {
+    "desc": "Ración de torta de chocolate y brownie, perfecto para amantes del chocolate",
+    "id": "P006",
+    "photo": "https://static.wixstatic.com/media/28a8cd_646bed67cabc4037b1ad10f3725bceed~mv2.jpeg/v1/fill/w_290,h_216,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-12-11%20at%2020_00_50.jpeg",
+    "ingredients": [""],
+    "name": "Brownie",
+    "price": 3500
+  },
+  {
+    "desc": "La combinación perfecta de helado y café",
+    "id": "P007",
+    "photo": "https://static.wixstatic.com/media/28a8cd_e35c1962daec4222a99e6088a7968f89~mv2.jpg/v1/fill/w_429,h_266,al_c,q_80,usm_0.66_1.00_0.01/28a8cd_e35c1962daec4222a99e6088a7968f89~mv2.jpg",
+    "ingredients": ["Café","Helado","Un toque de leche", "Caramelo"],
+    "name": "Café helado",
+    "price": 4000
+  },
+  {
+    "desc": "Pan de pascua",
+    "id": "P008",
+    "photo": "https://static.wixstatic.com/media/28a8cd_6780d79a9cdc43278c93843310aca021~mv2.jpg/v1/fill/w_429,h_266,al_c,q_80,usm_0.66_1.00_0.01/28a8cd_6780d79a9cdc43278c93843310aca021~mv2.jpg",
+    "ingredients": [""],
+    "name": "Pan de pascua",
+    "price": 3800
+  },
+  {
+    "desc": "Chocolate caliente",
+    "id": "P009",
+    "photo": "https://static.wixstatic.com/media/28a8cd_6126590c3d6548b7a5ea5fe6f59a601f~mv2.jpg/v1/fill/w_429,h_266,al_c,q_80,usm_0.66_1.00_0.01/28a8cd_6126590c3d6548b7a5ea5fe6f59a601f~mv2.jpg",
+    "ingredients": [""],
+    "name": "Chocolate caliente",
+    "price": 3500
+  },
+  {
+    "desc": "Mousse de chocolate blanco con pulpa de maracuyá",
+    "id": "P010",
+    "photo": "https://static.wixstatic.com/media/28a8cd_820ecba9127348b399ecb43ceb0c5ea2~mv2.jpeg/v1/fill/w_290,h_212,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp%20Image%202022-12-07%20at%2014_55_18.jpeg",
+    "ingredients": ["Mousse de chocolate", "Coco", "Gelé de maracuya"],
+    "name": "Glaseado espejo",
+    "price": 3500
+  }
+]
